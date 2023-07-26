@@ -1,0 +1,2 @@
+Realicé un simulador de carrito de compras. Dentro se le permite al usuario seleccionar uno o mas productos de una lista con precios explícitos para su compra, viendo los precios y el total final a pagar dependiendo de la cantidad y variedad que elija.
+Se le indica las opciones a elegir a través de prompt para que elija y se le devuelve el resultado a través de alert.
